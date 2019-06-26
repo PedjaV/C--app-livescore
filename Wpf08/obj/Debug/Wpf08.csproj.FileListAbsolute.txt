@@ -1,0 +1,14 @@
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\bin\Debug\Wpf08.exe
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\bin\Debug\Wpf08.pdb
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\Wpf08.csprojAssemblyReference.cache
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\MainWindow.g.cs
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\App.g.cs
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\Wpf08_MarkupCompile.cache
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\Wpf08_MarkupCompile.lref
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\MainWindow.baml
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\Wpf08.g.resources
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\Wpf08.Properties.Resources.resources
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\Wpf08.csproj.GenerateResource.cache
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\Wpf08.csproj.CoreCompileInputs.cache
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\Wpf08.exe
+C:\Users\Predrag-Pc\Documents\Vezbe\Wpf08\Wpf08\obj\Debug\Wpf08.pdb
